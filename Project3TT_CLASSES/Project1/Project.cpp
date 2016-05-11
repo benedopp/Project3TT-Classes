@@ -90,6 +90,48 @@ void changingPrivateValuesExample()
 
 	pressEnter();
 }
+/*What are constructors
+A constructor is a "method" is called when an instance is created 
+
+
+ Instance: instance is an occurrence of a class.
+ 
+Methods: functions which are part of a class
+
+has the same name of the class
+
+*/
+Student (string name) {
+	string name= "john smith" ;
+	
+	Student student1;
+	
+	Student student2;
+	
+	student1.name = "egg";
+	
+
+	 
+	 cout << student.name<< emdl ;
+}
+
+
+void displayConst () {
+	
+	string name= "john smith"
+	
+	Student student1;
+	
+	Student student2;
+	
+	student1.name = "egg"
+	
+	 Student k (Larry aka george forman)
+	 
+	 Student y (Knaye)
+	 
+	 cout << student y +
+}
 
 
 void pressEnter()
